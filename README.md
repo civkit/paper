@@ -1,2 +1,2 @@
-# paper
-Civ Kit whitepaper
+# Civ Kit whitepaper
+
